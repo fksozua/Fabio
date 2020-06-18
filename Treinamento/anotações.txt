@@ -1,0 +1,9 @@
+Java Standard Edition (Java SE)
+Java Enterprise Edition (Java EE)
+Java Mobilie Edition (Java ME)
+
+
+Classe - Scaner 
+import java.util.Scanner;
+
+String = armazena dados
